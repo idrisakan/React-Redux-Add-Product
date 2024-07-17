@@ -17,4 +17,4 @@ UI ve İkonlar
 Bu kütüphaneler ve araçlar, modern web uygulamalarını daha hızlı, verimli ve test edilebilir hale getirmek için kullanılır. Projenin gereksinimlerine göre farklı kütüphaneler eklenebilir veya mevcut kütüphaneler güncellenebilir.
 
 
-<img src='screen.' /># React-Redux-Add-Product
+<img src='screen.' />
